@@ -12,3 +12,4 @@ If anyone wants to fork the repo and do these, be my guest.
 - Talk to alex nichol about finding which letter day it is
 - Adjust current class calculation so it ends 1 minute before (10:59 for last block vs. 11:00 for next) [this only makes sense to me, ignore it Grant and Colin] lol
 - Weather isn't accurate, change the API (Yahoo weather?)
+- Weather effects
